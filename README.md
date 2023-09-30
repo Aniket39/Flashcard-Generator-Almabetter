@@ -22,7 +22,7 @@ Start the server
 
 ## Authors
 
-- [@Naveen Singh](https://github.com/aniket39)
+- [@Aniiket Singh](https://github.com/aniket39)
 
 
 ## Tech Stack
